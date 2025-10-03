@@ -1,0 +1,9 @@
+{
+    "NODE_ENV": "production",
+    "PORT": 9191,
+    "TOKEN_GENERATOR": "jwt",
+    "DB_NAME": "adibernatschool",
+    "DB_PASSWORD": "Id206536062",
+    "LOGGER": "morgan",
+    "DB": "MONGODB"
+}
